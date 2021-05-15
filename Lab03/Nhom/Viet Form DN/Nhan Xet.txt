@@ -1,0 +1,12 @@
+Đoạn code sql được đưa vào từ C# được SQL Profile bắt lấy và hiển thị dưới dạng bản rõ
+
+==> dễ dàng ăn cắp được thông tin đăng nhập cũng như các thông tin khác
+
+
+
+Bài làm: 
+
+
+Hoàn thành: 99.9% (hoàn thành tất cả yêu cầu)
+
+Phần chưa hoàn tất: hiển thị điểm dạng varbinary trong Gridview
