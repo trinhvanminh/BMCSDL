@@ -1,0 +1,33 @@
+C:\Users\tvmin\OneDrive\Máy tính\Login\Login\bin\Debug\Login.exe.config
+C:\Users\tvmin\OneDrive\Máy tính\Login\Login\bin\Debug\Login.exe
+C:\Users\tvmin\OneDrive\Máy tính\Login\Login\bin\Debug\Login.pdb
+C:\Users\tvmin\OneDrive\Máy tính\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\tvmin\OneDrive\Máy tính\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\tvmin\OneDrive\Máy tính\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\tvmin\OneDrive\Máy tính\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\tvmin\OneDrive\Máy tính\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\tvmin\OneDrive\Máy tính\Login\Login\obj\Debug\Login.exe
+C:\Users\tvmin\OneDrive\Máy tính\Login\Login\obj\Debug\Login.pdb
+C:\Users\tvmin\OneDrive\Máy tính\Viet Form DN\Login\Login\bin\Debug\Login.exe.config
+C:\Users\tvmin\OneDrive\Máy tính\Viet Form DN\Login\Login\bin\Debug\Login.exe
+C:\Users\tvmin\OneDrive\Máy tính\Viet Form DN\Login\Login\bin\Debug\Login.pdb
+C:\Users\tvmin\OneDrive\Máy tính\Viet Form DN\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\tvmin\OneDrive\Máy tính\Viet Form DN\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\tvmin\OneDrive\Máy tính\Viet Form DN\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\tvmin\OneDrive\Máy tính\Viet Form DN\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\tvmin\OneDrive\Máy tính\Viet Form DN\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\tvmin\OneDrive\Máy tính\Viet Form DN\Login\Login\obj\Debug\Login.exe
+C:\Users\tvmin\OneDrive\Máy tính\Viet Form DN\Login\Login\obj\Debug\Login.pdb
+C:\Users\tvmin\OneDrive\Máy tính\Viet Form DN\Login\Login\obj\Debug\Login.FromThaoTac.resources
+C:\Users\tvmin\OneDrive\Máy tính\Viet Form DN\Login\Login\obj\Debug\Login.FormSuaDiem.resources
+C:\Users\tvmin\OneDrive\Máy tính\lab04\Login\Login\bin\Debug\Login.exe.config
+C:\Users\tvmin\OneDrive\Máy tính\lab04\Login\Login\bin\Debug\Login.exe
+C:\Users\tvmin\OneDrive\Máy tính\lab04\Login\Login\bin\Debug\Login.pdb
+C:\Users\tvmin\OneDrive\Máy tính\lab04\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\tvmin\OneDrive\Máy tính\lab04\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\tvmin\OneDrive\Máy tính\lab04\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\tvmin\OneDrive\Máy tính\lab04\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\tvmin\OneDrive\Máy tính\lab04\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\tvmin\OneDrive\Máy tính\lab04\Login\Login\obj\Debug\Login.exe
+C:\Users\tvmin\OneDrive\Máy tính\lab04\Login\Login\obj\Debug\Login.pdb
+C:\Users\tvmin\OneDrive\Máy tính\lab04\Login\Login\obj\Debug\Login.FormAction.resources
