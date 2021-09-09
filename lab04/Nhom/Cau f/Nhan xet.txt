@@ -1,0 +1,8 @@
+Mã hoá trực tiếp tại client sẽ giúp không bị rò rỉ thông tin trong SQL Profiler
+khi thực thi câu lệnh SQL
+
+SQL Profiler chỉ có thể thấy được mật khẩu đã hash
+
+select * from NHANVIEN where TENDN = N'nva' and MATKHAU = 0x7C4A8D09CA3762AF61E59520943DC26494F8941B;
+
+Đảm bảo tính bảo mật cho người dùng

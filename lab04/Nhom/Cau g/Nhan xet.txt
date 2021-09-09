@@ -1,0 +1,11 @@
+Thực thi thông qua storeprocedure nên SQL profiler không thể thấy trực tiếp được câu lệnh thực thi SQL
+
+Nếu muốn an toàn có thể mã hoá câu lệnh trong storeprocedure luôn
+
+
+--> Đảm bảo an toàn đối với SQL Profiler
+
+
+Phần lương khi thực thi trong SQL đã bị mã hoá tại client
+
+Khi load form DANH MỤC NHÂN VIÊN thì Lương sẽ được lấy từ Database QLSV giải mã và load vào GridView

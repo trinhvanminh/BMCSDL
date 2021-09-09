@@ -1,0 +1,39 @@
+1712601 - Trịnh Văn Minh
+
+Hoàn thành 99% yêu cầu (nút Thêm tích hợp luôn Ghi/Lưu)
+
+Không làm được (không thể tách ra nút thêm là nút lưu, thêm từng NV)
+
+
+Hướng dẫn:
+
+Thêm:
+	Điền thông tin vào trong textbox
+	Bấm nút Thêm
+	--> Mã hoá và thực thi câu lệnh SQL thêm trực tiếp vào DB
+
+Xoá:
+	Chọn Row tương ứng muốn xoá trong GridView
+	Nhấn nút xoá --> OK
+	--> Xoá trong DB dựa theo MaNV và Load lại GridView
+
+Sửa:	
+	Chọn Row tương ứng muốn sửa trong GridView
+	Sửa thông tin tại TextBox
+	Bấm nút Sửa
+	--> thực thi câu lệnh SQL Update dựa theo MaNV
+	--> Update DB và load lại GridView
+
+Không:
+	Load lại GridView từ DB
+
+Thoát: 
+	this.hide 
+	thoát form Danh mục nhân viên
+
+
+
+
+
+
+

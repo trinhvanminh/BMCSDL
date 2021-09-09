@@ -1,0 +1,1 @@
+exec sp_executesql N'EXEC SP_INS_ENCRYPT_NHANVIEN @manv, @hoten, @email, @luong, @tendn, @matkhau',N'@manv varchar(4),@hoten nvarchar(12),@email varchar(4),@luong varbinary(16),@tendn nvarchar(3),@matkhau varbinary(20)',@manv='nv03',@hoten=N'nguyen van d',@email='nvd@',@luong=0xC38C0D50D5A65D62228D40355EC8C9C7,@tendn=N'nvd',@matkhau=0x7C4A8D09CA3762AF61E59520943DC26494F8941B
